@@ -1,0 +1,12 @@
+{
+    "domain": "ntfy",
+    "name": "Send push notifications using NTFY",
+    "codeowners": [
+    "@t0mer"
+    ],
+    "documentation": "https://github.com/t0mer/ntfy-custom-notifier",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/t0mer/ntfy-custom-notifier",
+    "requirements": ["requests"],
+    "version": "0.1.0"
+}

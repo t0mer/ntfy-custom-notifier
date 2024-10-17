@@ -1,0 +1,7 @@
+notify:
+  description: "Send push notification using ntfy"
+  fields:
+    message:
+      description: The message to send
+      example: "Hello World"
+    
